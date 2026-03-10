@@ -1,0 +1,9 @@
+*.o
+curiosity
+curiosity-test
+curiosity-perf
+curiosity-obs
+test_robot
+test_terrain
+test_generation_terrains
+resultat.txt
