@@ -1,4 +1,4 @@
-# Projet INF304 en binome  - L2 Informatique UGA : Simulateur Curiosity
+# Projet INF304 en trinome  - L2 Informatique UGA : Simulateur Curiosity
 
 # INF304 Project in collaboration with two teammates - L2 Computer Science at UGA: Curiosity Simulator
 
